@@ -1,0 +1,16 @@
+.mainWrapper {
+  background-image: url('https://wallpaperplay.com/walls/full/6/7/6/61749.jpg') !important;
+  width: 100%;
+  height: 100%;
+}
+
+.parentGrid {
+  width: 100% !important;
+  height: 80% !important;
+}
+
+.childGrid {
+  height: 90% !important;
+  padding-right: 5% !important;
+  padding-left: 5% !important;
+}
